@@ -10,7 +10,7 @@ int main()
 {
 	do {
 		system("cls");
-		cout << "Luis Carlos Lee Mejia       9959-19-2356" << endl << endl;
+		cout << "LUIS CARLOS LEE MEJIA       9959-19-2356" << endl << endl;
 		cout << "ingrese opcion" << endl;
 		cout << "ingresar datos............1" << endl;
 		cout << "ver tabla de datos........2" << endl;
