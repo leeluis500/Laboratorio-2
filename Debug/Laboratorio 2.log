@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\leelu\Desktop\Progra I\Laboratorio 2\Source.cpp(87,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\leelu\Desktop\Progra I\Laboratorio 2\Source.cpp(202,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\leelu\Desktop\Progra I\Laboratorio 2\Source.cpp(310,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\leelu\Desktop\Progra I\Laboratorio 2\Source.cpp(418,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\leelu\Desktop\Progra I\Laboratorio 2\Source.cpp(526,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\leelu\Desktop\Progra I\Laboratorio 2\Source.cpp(634,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\leelu\Desktop\Progra I\Laboratorio 2\Source.cpp(742,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\leelu\Desktop\Progra I\Laboratorio 2\Source.cpp(850,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\leelu\Desktop\Progra I\Laboratorio 2\Source.cpp(958,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\leelu\Desktop\Progra I\Laboratorio 2\Source.cpp(1066,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Laboratorio 2.vcxproj -> C:\Users\leelu\Desktop\Progra I\Laboratorio 2\Debug\Laboratorio 2.exe
